@@ -1,4 +1,4 @@
-package webapp;
+package za.co.iherridge0.webapp;
 
 import java.io.IOException;
 import java.io.PrintWriter;

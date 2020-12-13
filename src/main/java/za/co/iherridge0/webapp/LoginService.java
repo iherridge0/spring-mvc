@@ -1,4 +1,4 @@
-package webapp;
+package za.co.iherridge0.webapp;
 
 public class LoginService {
 
